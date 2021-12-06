@@ -43,3 +43,6 @@ Homepage
  
  Footer
  ![front-page-3](https://user-images.githubusercontent.com/66249777/144849012-e45eab08-8893-4534-b3f0-e2f2d744f469.png)
+ 
+ Modal
+ ![front-page-4](https://user-images.githubusercontent.com/66249777/144849137-96954bd7-8c28-4c51-9a48-0efa68768977.png)
