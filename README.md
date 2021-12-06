@@ -2,6 +2,7 @@
 
 ## Table of contents
 * [General info](#general-info)
+* [Features](#Features)
 * [Technologies](#technologies)
 * [Installation](#Installation)
 * [License](#License)
@@ -12,7 +13,11 @@ Essa é aplicação foi contruída utilizando a library React JS, consumindo API
 Entre as principais tecnologias usadas temos o CLI npx para a formação de todas as dependências necessárias, React Router DOM, React Hooks, Axios, Node Sass, React-Icons, FontAwesome, React Lazy Load e File Saver. Para melhor experiência de uso também foi adicionado pagination.
 O deploy dessa aplicação está no Netlify pronta para uso. 
 
- Acesse através desse link: https://gallerybay.netlify.app
+## Features
+Nessa aplicação é possível pesquisar qualquer termo, seja em Português ou Inglês e será buscado um resultado para a pesquisa. Caso não seja encontrado, será mostrado na tela "Nenhum resultado encontrado".
+Também é possivel clicar na imagem na galeria para obter informações detalhadas sobre a mesma, seja a quantidade de likes, visualizações, comentários, downloads, hashtags, autor da foto, ver direto no site Pixabay e visualizar a mesma imagem em alta resolução em uma aba à parte,  como também fazer o download com alta qualidade em dispositivo local.
+
+ Clicque no link e veja online: https://gallerybay.netlify.app
 	
 ## Technologies
 Esse projeto contém as seguintes tecnologias:
