@@ -17,7 +17,7 @@ const GalleryFooter = () => {
             <small>&copy; {todayDate} | Todos os direitos reservados</small> 
             <small 
               style={{ color: 'grey', fontSize: '10px'}}>
-                Faça uma visita ao 
+                Faça uma visita ao {''}
               <a href="https://pixabay.com/" target="_blank" rel="noopener noreferrer">Pixabay</a>
             </small>
         </div>
