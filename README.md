@@ -38,4 +38,5 @@ Homepage
 
  ![front-page](https://user-images.githubusercontent.com/66249777/144848754-db69ad6a-c1a8-4055-ba96-799ac392e7bf.png)
  
+ Área de busca
  ![front-page-2](https://user-images.githubusercontent.com/66249777/144848875-3a813ee1-06bb-4d75-b173-efa05882136a.png)
