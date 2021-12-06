@@ -35,4 +35,4 @@ Para baixar essa aplicação em sua máquina local certifique se de ter o Node i
 
 ## Demo
 Homepage
-![homepage](https://user-images.githubusercontent.com/66249777/106831541-dde2dc00-666e-11eb-9781-fca035d429c6.png)
+ 
