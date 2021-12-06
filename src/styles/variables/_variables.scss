@@ -1,0 +1,42 @@
+// fonts
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+
+$poppins-font:   'Poppins', sans-serif;
+$font-weight300: 300;
+$font-weight400: 400;
+$font-weight500: 500;
+$font-weight600: 600;
+$base-size: 100%;
+$font-10px: 0.625rem;
+$font-12px: 0.75rem;
+$font-14px: 0.875rem;
+$font-16px: 1rem;
+$font-18px: 1.125rem;
+$font-32px: 2rem;
+$font-48px: 3rem;
+
+
+
+// Colors
+$color-purple: rgb(23, 2, 56);
+$color-purple_light: rgba(30, 1, 77, 0.336);
+$color-red: rgb(255, 0, 0);
+$color-white: rgb(255, 255, 255);
+$color-light_gray: rgba(241, 241, 241, 0.26);
+$color-black: rgb(0, 0, 0);
+$color-blue: rgb(0, 0, 255);
+$color-green: rgb(0, 128, 0);
+$color-gray : rgb(141, 141, 141);
+$box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.75);
+$overlay: rgba(12, 12, 12, 0.35);
+$loading-overlay: rgba(12, 12, 12, 0.267);
+
+// transition
+$transition3s:  all ease-in .3s; 
+$transition4s:  all ease-in .4s; 
+
+
+
+// border radios
+$border-radius: 0.1875rem;
