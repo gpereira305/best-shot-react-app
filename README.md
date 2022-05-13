@@ -21,7 +21,7 @@ Também é possivel clicar na imagem na galeria para obter informações detalha
 	
 ## Technologies
 Esse projeto contém as seguintes tecnologias:
-* Ract JS 
+* React JS 
 * React Hooks
 * React-Icons
 * React Fontawesome
